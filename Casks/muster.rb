@@ -5,7 +5,7 @@ cask "muster" do
   url "https://github.com/josefchen/muster/releases/download/v#{version}/Muster.dmg"
   name "Muster"
   desc "Menu bar switcher for Claude, Codex and Cursor agent sessions"
-  homepage "https://github.com/josefchen/muster"
+  homepage "https://agentmuster.app"
 
   livecheck do
     url :url
