@@ -1,6 +1,6 @@
 cask "muster" do
-  version "1.3.2"
-  sha256 "273d0fd8bd0ddadb26a6d1bf422419a2807baac5c21cc5fd0b48b652177ed1c8"
+  version "1.4.0"
+  sha256 "d6bb83a01700176938429459bf9a43845147864d74a1c9a3386707d823b23ff6"
 
   url "https://github.com/josefchen/muster/releases/download/v#{version}/Muster.dmg"
   name "Muster"
